@@ -9,5 +9,8 @@
 #import "Person.h"
 
 @implementation Person
+- (void)test {
 
+    NSLog(@"代码仓库");
+}
 @end

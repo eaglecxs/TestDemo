@@ -10,4 +10,5 @@
 
 @interface Person : NSObject
 
+- (void)test;
 @end
